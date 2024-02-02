@@ -163,31 +163,6 @@ Dedicated Q&A sessions are scheduled to ensure clarity and comprehension. These 
 - An interactive environment encouraging lively discussions and active participation.
 - A feedback mechanism for continuous improvement of the workshop's content and structure.
 
-## Interactive Elements and Collaboration Tools
-
-In this workshop, we emphasize an interactive and collaborative learning environment. To facilitate this, we will be using several tools and platforms that enable real-time interaction, code sharing, and collective problem-solving. Here's how we'll integrate these interactive elements into our sessions:
-
-### Real-Time Collaboration and Coding
-- **Platform**: [Visual Studio Code Live Share](https://visualstudio.microsoft.com/services/live-share/)
-  - **Purpose**: This tool allows participants to collaboratively write and debug code in real-time, directly in their editors.
-  - **How to Use**: Instructions for installing the Live Share extension and joining a live coding session will be provided. Participants can write, share, and discuss code in real-time during the workshop.
-
-### Live Polls and Quizzes
-- **Platform**: [Mentimeter](https://www.mentimeter.com/)
-  - **Purpose**: Engage participants with interactive polls and quizzes to reinforce learning, gather feedback, and ensure key concepts are well understood.
-  - **How to Use**: Participants will be provided with a link and a unique code to join the live polls and quizzes during the workshop sessions.
-
-### Code Sharing and Exercise Submission
-- **Platform**: [GitHub Gist](https://gist.github.com/)
-  - **Purpose**: Gist allows participants to easily share snippets of code or full programs, facilitating code reviews and submissions of exercises.
-  - **How to Use**: Participants will create a Gist for each exercise or code snippet they wish to share. They can then post the Gist link in the workshop's communication channel for review and feedback.
-
-### Communication and Q&A
-- **Platform**:  [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
-  - **Purpose**: Teams serve as the primary channels for communication, Q&A, announcements, and sharing resources throughout the workshop.
-  - **How to Use**: Participants will be invited to join the designated workspace or team before the workshop. Channels for different topics, announcements, and Q&A will be available for participants to engage in discussions, ask questions, and share insights.
-
-
 ## Technical Requirements
 
 To ensure a seamless and productive experience during the workshop, it's crucial that all participants have their development environment set up prior to the start. Below are the necessary software, tools, and IDEs you'll need, along with their version numbers and links to installation guides. Additionally, we've included troubleshooting tips and ways to seek help if you encounter any issues.
