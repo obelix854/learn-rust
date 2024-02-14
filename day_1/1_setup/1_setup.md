@@ -12,7 +12,7 @@ For Unix-like systems (including Linux, macOS, and Windows with WSL), we provide
    - Open a terminal.
    - Use the following command to download the script:
      ```
-     curl -O https://github.com/obelix854/say_1/setup/learn-rust/install_rust.sh
+     curl -O https://github.com/obelix854/learn-rust/edit/main/day_1/1_setup/1_setup.md
      ```
 
 
